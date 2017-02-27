@@ -1,0 +1,22 @@
+Hello,
+
+I installed official release version of COMOS WI(x86) issue on 2017 Feb 17, then applied translation folder named ja-JP under installed program folder.
+I found several comverters were not start up, nor log information.
+  1) PDS Converter
+  2) JT Converter
+  3) SP3D Conveter
+  4) Point Could Converter
+  
+  Only PDMS started up with Japanese interface.
+  If I rename ja-JP folder under isntallation program, all converters worked but with English interface.
+  
+  Please refine all converters to behaive same as PDMS builder.
+  
+  
+  Regards,
+  
+  
+  Makiko
+  
+  
+  
